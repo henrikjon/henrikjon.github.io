@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Henrik Jönsson</title>
+    <link>http://www.hjonsson.net/about/</link>
+    <description>Recent content in About on Henrik Jönsson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jun 2022 20:26:48 +0200</lastBuildDate><atom:link href="http://www.hjonsson.net/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
